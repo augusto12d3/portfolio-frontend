@@ -1,0 +1,15 @@
+h1 {
+    position: absolute;
+    font-family: "Press Start 2P", sans-serif;
+    line-height: 40px;
+    font-weight: normal;
+    font-style: normal;
+    padding: 10 10 10 10;
+    font-size: 40px;
+    text-shadow: 4px 4px 0 #000;
+    color: #00FF98;
+    width: 520px;
+    height: 40px;
+    left: 145px;
+    top: 238px;
+}
