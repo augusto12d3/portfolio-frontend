@@ -7,42 +7,6 @@ header {
 
 }
 
-div {
-    position: absolute;
-    width: 627px;
-    height: 184px;
-    left: 91px;
-    top: 196px;
-    background-color: #3A4042;
-    box-shadow: 10px 10px 0px #000;
-}
-
-
-
-h2 {
-    position: absolute;
-    font-family: "Press Start 2P", sans-serif;
-    font-size: 30px;
-    line-height: 30px;
-    font-style: normal;
-    font-weight: normal;
-    color: #FFF;
-    text-shadow: 4px 4px 0 #000;
-    width: 540px;
-    height: 30px;
-    left: 131px;
-    top: 306px;
-}
-
-hr {
-    position: absolute;
-    left: 0%;
-    right: 0%;
-    top: -nan%;
-    bottom: -nan%;
-    border: 10px solid #000;
-}
-
 nav {
     text-align: right;
 }
@@ -66,7 +30,7 @@ a::before {
     margin-right: 10px;
 }
 
-.button {
+#button {
     display: inline-block;
     background-color: #00FF98;
     padding: 18px    20px;
