@@ -20,3 +20,11 @@
 .main-section.-bdSecond {
     border-color: #ac52cb;
 }
+
+.main-section.-bgSecond {
+    background-color: #ac52cb;
+}
+
+.main-section.-bdBlack {
+    border-color: #000;
+}
