@@ -1,0 +1,16 @@
+.main-footer {
+    display: flex;
+    position: absolute;
+    justify-content: center;
+    height: 100px;
+    width: 100%;
+    background-color: #000;
+    color: #FFF;
+    padding-top: 28px;
+    padding-bottom: 28px;
+
+}
+.main-footer .social {
+    margin-right: 20px;
+    margin-left: 20px;
+}
